@@ -29,6 +29,6 @@ You can view the webpage by opening `index.html` in any web browser. Feel free t
 
 - Name: Hemant Kumar Yadav
 - Email: thehemantonly@gmail.com
-- LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/thehemantonly/)
-- GitHub: [[Your GitHub Profile URL]](https://linkedin.com/in/thehemantonly)
+- LinkedIn: [[Open]](https://www.linkedin.com/in/thehemantonly/)
+- GitHub: https://linkedin.com/in/thehemantonly
 
