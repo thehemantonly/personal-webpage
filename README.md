@@ -16,6 +16,8 @@ Welcome to my personal webpage! This webpage serves as a platform to showcase my
 
 ![Preview](webpage-preview.png)
 
+https://thehemantonly.github.io/personal-webpage/
+
 ## Usage
 
 You can view the webpage by opening `index.html` in any web browser. Feel free to customize the content and styling according to your preferences.
@@ -29,6 +31,6 @@ You can view the webpage by opening `index.html` in any web browser. Feel free t
 
 - Name: Hemant Kumar Yadav
 - Email: thehemantonly@gmail.com
-- LinkedIn: [[Open]](https://www.linkedin.com/in/thehemantonly/)
-- GitHub: https://linkedin.com/in/thehemantonly
+- LinkedIn: https://www.linkedin.com/in/thehemantonly/
+- GitHub: https://github.com/thehemantonly/
 
